@@ -1,0 +1,4 @@
+it-core-news-sm==2.2.5
+nltk==3.6.2
+spacy==2.2.4
+wikipedia==1.4.0
