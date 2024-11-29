@@ -1,7 +1,9 @@
 # Named-entity recognition
 
 ## 🛠 Skills
-Python, NLTK, Spacy
+- Python
+- NLTK
+- Spacy
 
 ## 📝 Requirements
 *The objective is to develop an AI model capable of extrapolating, from the unstructured texts provided as input, the previously established key entities. This process is better known in the literature as [Named-entity recognition (NER)](https://en.wikipedia.org/wiki/Named-entityrecognition).*
